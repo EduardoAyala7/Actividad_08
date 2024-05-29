@@ -1,0 +1,27 @@
+/*Estilos para html*/
+
+body{
+    background-color:rgb(72, 59, 59);
+    font-family: verdana;
+}
+ol {
+    color: white;
+    font-family: lucida sans;
+    font-size: 25px;
+}
+li {
+    color:white;
+    font-family: arial;
+    font-size: 25px;
+}
+a {
+    color:white;
+    font-family: arial;
+}
+h1 {
+    color:red;
+    font-size: 50px;
+}
+html {
+    background-image: url(https://www.grupocibernos.com/hs-fs/hubfs/sistemas%20inform%C3%A1ticos-abril.jpg?width=960&name=sistemas%20inform%C3%A1ticos-abril.jpg);
+}
